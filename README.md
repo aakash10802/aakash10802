@@ -89,6 +89,8 @@
 <img src="https://skillicons.dev/icons?i=html,react,vscode,nodejs,linux,mongodb,js,css,git,mysql&theme=dark&perline=10" />
   </a>
 
-<h3 align="left">🔥   My Stats :</h3>
-![Aakash's GitHub stats](https://gh-stats.deoxy.dev/api?username=aakash10802&count_private=true&theme=merko)
+<h3 align="left">🔥   My Stats :</h3>  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,react,vscode,nodejs,linux,mongodb,js,css,git,mysql&theme=dark&perline=10" />
+  </a>
 
+![Aakash's GitHub stats](https://gh-stats.deoxy.dev/api?username=aakash10802&count_private=true&theme=merko)
