@@ -91,7 +91,14 @@
 <img src="https://skillicons.dev/icons?i=html,react,vscode,nodejs,linux,mongodb,js,css,git,mysql&theme=dark&perline=10" />
   </a>
 
-
+<h3 align="left">🔥   My Stats :</h3>
 ![Aakash's GitHub stats](https://gh-stats.deoxy.dev/api?username=aakash10802&count_private=true&theme=merko)
 
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/3gu7851z6jdroqawkdu4t4po2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=3" alt="Spotify recently played"  />
+  </a>
+</div>
