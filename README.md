@@ -86,8 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
 </div>
 
-
-
 <img src="https://skillicons.dev/icons?i=html,react,vscode,nodejs,linux,mongodb,js,css,git,mysql&theme=dark&perline=10" />
   </a>
 
