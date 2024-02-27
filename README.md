@@ -1,5 +1,12 @@
 # Hi I'm Aakash
+[
+<br clear="both">
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aakash10802.aakash10802&left_color=darkslateblue&right_color=darkgoldenrod"  />
+</div>
+
+###
 
 ###
 
@@ -90,4 +97,20 @@
 <img src="https://skillicons.dev/icons?i=html,react,vscode,nodejs,linux,mongodb,js,css,git,mysql&theme=dark&perline=10" />
   </a>
 
-![Aakash's GitHub stats](https://gh-stats.deoxy.dev/api?username=aakash10802&count_private=true&theme=merko)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aakash10802/aakash10802/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakash10802&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash10802&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aakash10802&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakash10802&radius=5&theme=react&area=false&order=5&custom_title=MY%20ACTIVITY%20GRAPH&hide_border=true&hide_title=false" height="294" alt="activity-graph graph"  />
+</div>
+
+###
