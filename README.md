@@ -93,6 +93,7 @@
 
   </a>
 
+
 <h3 align="left">🔥   My Stats :</h3>  <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,react,vscode,nodejs,linux,mongodb,js,css,git,mysql&theme=dark&perline=10" />
   </a>
@@ -100,7 +101,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aakash10802/aakash10802/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
