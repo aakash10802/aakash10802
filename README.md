@@ -94,7 +94,7 @@
   </a>
 
 
-<h3 align="left">🔥   My Stats :</h3>  <a href="https://skillicons.dev">
+<h3 align="left">🔥 My Stats :</h3>  <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,react,vscode,nodejs,linux,mongodb,js,css,git,mysql&theme=dark&perline=10" />
   </a>
 
